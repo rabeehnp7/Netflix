@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netfix/static/css/main.1547f733.css",
+    "main.js": "/Netfix/static/js/main.b6b8c907.js",
+    "index.html": "/Netfix/index.html",
+    "main.1547f733.css.map": "/Netfix/static/css/main.1547f733.css.map",
+    "main.b6b8c907.js.map": "/Netfix/static/js/main.b6b8c907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1547f733.css",
+    "static/js/main.b6b8c907.js"
+  ]
+}
